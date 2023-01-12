@@ -1,0 +1,102 @@
+section {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid red;
+    justify-content: space-between;
+    height: 300px;
+    color: yellow;
+    text-align: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    align-items: flex-start;
+}
+
+.container1 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container2 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container3 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container4 {
+    background-color: yellow;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.contain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    align-items: center;
+}
+
+.container5 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container6 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container7 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container8 {
+    background-color: yellow;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.element {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    align-items: flex-end;
+}
+
+.container9 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container10 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container11 {
+    background-color: yellow;
+    width: 100px;
+}
+
+.container12 {
+    background-color: yellow;
+    width: 100px;
+}
